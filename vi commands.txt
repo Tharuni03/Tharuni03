@@ -1,0 +1,10 @@
+vi commands
+i-insert at cursor 
+esc-terminate insert mode
+u-undo last changes
+v-undo all changes
+3dd-delete 3 lines 
+D-delete contents of line after the cursor
+dw-delete word
+4dw-delete 4 words
+cw-change a particular word

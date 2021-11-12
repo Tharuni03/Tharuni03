@@ -8,3 +8,5 @@ D-delete contents of line after the cursor
 dw-delete word
 4dw-delete 4 words
 cw-change a particular word
+
+

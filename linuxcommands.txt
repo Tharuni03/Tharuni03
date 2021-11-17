@@ -15,3 +15,4 @@
      cat file-name           : shows the content of the file 
      git branch              : to show all the branches
      git push url            : to push data from local repository to remote repository 
+   
